@@ -1,0 +1,44 @@
+#main_div{
+    margin:0;
+    padding:0;
+
+}
+#div1{
+    height: 233px;
+}
+#main_logo{
+
+    position: absolute;
+    top: 0;
+    bottom:0;
+    left: 44%;
+    right:0;
+
+}
+#main_title{
+    text-align: center;
+
+
+}
+#div1{
+    margin:0;
+    padding:0;
+}
+#slogan{
+    text-align: center;
+}
+#ico-div{
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    bottom:0;
+    left: 44%;
+    right:0;
+}
+
+.ico-img{
+    height: 50px;
+    width: 50px;
+    float: left;
+
+}
