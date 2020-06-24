@@ -27,7 +27,7 @@
 #slogan{
     text-align: center;
 }
-#ico-div{
+#icon-div{
     height: 50px;
     position: absolute;
     top: 40%;
@@ -36,7 +36,7 @@
     right:0;
 }
 
-.ico-img{
+.icon-img{
     height: 50px;
     width: 50px;
     float: left;
